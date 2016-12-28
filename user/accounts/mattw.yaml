@@ -1,0 +1,11 @@
+email: mattwujek@gmail.com
+fullname: 'Matt Wujek'
+title: dev
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$EzwX6PoVVNZTQ3ypfWtIXOwHTQzMI3BUzZteE3HxRkd8Dj6djd/76
